@@ -13,4 +13,4 @@ Acesse o projeto online: [Seal World](https://projeto-pratico-six.vercel.app/)
 - **video/** – Vídeo de background  
 
 ## 👨‍💻 Autor
-Desenvolvido por [Rafael Alves](https://github.com/isaacpontes).
+Desenvolvido por [Rafael Alves](https://github.com/Rafael-Alvesz).
